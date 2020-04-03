@@ -1,0 +1,170 @@
+body{
+  color: darkgray;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+
+}
+h1{
+  margin-top: 0;
+  font-size: 50px;
+  color: #66BFBF;
+  font-family: sans-serif;
+}
+h2{
+  margin-top: 0;
+  color: #66BFBF;
+  font-family: sans-serif;
+  font-size: normal;
+  padding: 20px;
+
+}
+
+.d1 {
+  background-color: #d4ebd0;
+  margin: 0px 0px 0px 0px;
+  position: relative;
+  padding-top:50px;
+
+}
+
+.cl2{
+  width: 150px;
+  position: absolute;
+  top: 30%;
+
+}
+
+.cl1{
+  width: 100px;
+  position: absolute;
+  left: 70%;
+  top: 5%;
+}
+
+.mount{
+  width: 800px;
+  margin-left: 100px;
+
+}
+
+.middle-container{
+  margin: 100px 0 100px 0;
+}
+
+.profile img{
+  border-radius: 50%
+}
+
+
+
+.skills_row{
+  width: 50%;
+  margin: auto;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+
+
+.contact-me a{
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+h3{
+  color: #66BFBF;
+  font-family: sans-serif;
+}
+
+p{
+  font-size: normal;
+  font-family: sans-serif;
+}
+
+
+.img{
+  width: 25%;
+  border-radius: 90%;
+  padding: 20px;
+  float:right;
+  margin-right: 30px;
+  margin-top: 20px;
+  border-radius: 50%;
+
+
+}
+
+.img1{
+  width: 25%;
+  border-radius: 90%;
+  padding: 20px;
+  float:left;
+  margin-right: 30px;
+  margin-top: 20px;
+  border-radius: 50%;
+}
+
+
+.pro{
+  width: 30%;
+  margin: auto;
+  padding-bottom: 20px;
+}
+
+hr{
+  border: dotted  lightblue 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+.contanct-message{
+  width: 40%;
+
+  margin: 40px auto 60px;
+}
+
+.button{
+  background: #11cdd4;
+  border-radius: 8px;
+  font-family: sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.button:hover{
+  background: #30e3cb;
+  text-decoration: none;
+}
+
+.bottom-container{
+  background-color: #66BFBF;
+  height: 10%;
+  padding: 5%;
+  margin: 10% 0 0 0;
+  text-align: center;
+}
+
+
+
+
+a{
+  color:#11999E;
+  font-family: sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover{
+  color:#EAF6F6;
+}
+
+.pt{
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 50px 0 0 0;
+}
